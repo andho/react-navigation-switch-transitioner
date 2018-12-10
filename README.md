@@ -4,6 +4,10 @@ Switch navigator for use on iOS and Android, allowing custom transitions on swit
 
 It also includes a FadeTransition to use in your screens to get cross-fading for the switch navigator
 
+## Dependencies
+
+This lib uses [react-native-reanimated](https://github.com/kmagiera/react-native-reanimated). Install and link it if you haven't already.
+
 ## Installation
 
 Open a Terminal in your project's folder and run,
